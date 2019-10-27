@@ -1,0 +1,16 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "student_toolkit.exe",
+      "name": "student_toolkit.exe",
+      "args": [
+        "C:\\Users\\Olexey\\Source\\Repos\\adtsvetkov\\cppimagefilterbase\\kek.png",
+        "C:\\Users\\Olexey\\Source\\Repos\\adtsvetkov\\cppimagefilterbase\\kekkek.png"
+      ]
+    }
+  ]
+}

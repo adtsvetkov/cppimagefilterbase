@@ -12,14 +12,13 @@ int main( int argc, char *argv[] )
 
         png_toolkit studTool;
         studTool.load(argv[1]);
+		studTool.paint();
         studTool.save(argv[2]);
-
     }
     catch (const char *str)
     {
         std::cout << "Error: " << str << std::endl;
         return 1;
     }
-
     return 0;
 }

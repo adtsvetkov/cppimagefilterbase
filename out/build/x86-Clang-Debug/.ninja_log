@@ -1,0 +1,25 @@
+# ninja log v5
+# ninja log v5
+0	1557	593310871	CMakeFiles/student_toolkit.dir/main.cpp.obj	a98d0b228c0bab84
+7	2198	593310872	CMakeFiles/student_toolkit.dir/png_toolkit.cpp.obj	479f51e287b854b2
+2198	5958	593310876	student_toolkit.exe	721f7ba100f4f81f
+14	927	593311219	CMakeFiles/student_toolkit.dir/main.cpp.obj	a98d0b228c0bab84
+19	1747	593311220	CMakeFiles/student_toolkit.dir/png_toolkit.cpp.obj	479f51e287b854b2
+1747	2734	593311221	student_toolkit.exe	721f7ba100f4f81f
+1	814	593312632	CMakeFiles/student_toolkit.dir/main.cpp.obj	a98d0b228c0bab84
+814	1669	593312633	student_toolkit.exe	721f7ba100f4f81f
+0	1359	593312641	CMakeFiles/student_toolkit.dir/main.cpp.obj	a98d0b228c0bab84
+1359	2180	593312641	student_toolkit.exe	721f7ba100f4f81f
+0	915	593312670	CMakeFiles/student_toolkit.dir/main.cpp.obj	a98d0b228c0bab84
+916	1791	593312670	student_toolkit.exe	721f7ba100f4f81f
+0	1997	593312795	CMakeFiles/student_toolkit.dir/png_toolkit.cpp.obj	479f51e287b854b2
+1998	2795	593312796	student_toolkit.exe	721f7ba100f4f81f
+1	869	593313030	CMakeFiles/student_toolkit.dir/main.cpp.obj	a98d0b228c0bab84
+6	1723	593313031	CMakeFiles/student_toolkit.dir/png_toolkit.cpp.obj	479f51e287b854b2
+1723	2290	593313032	student_toolkit.exe	721f7ba100f4f81f
+57	6992	593356970	CMakeFiles/student_toolkit.dir/main.cpp.obj	a98d0b228c0bab84
+6992	9373	593356972	student_toolkit.exe	721f7ba100f4f81f
+0	939	593357502	CMakeFiles/student_toolkit.dir/main.cpp.obj	a98d0b228c0bab84
+939	1538	593357502	student_toolkit.exe	721f7ba100f4f81f
+1	2594	593357919	CMakeFiles/student_toolkit.dir/png_toolkit.cpp.obj	479f51e287b854b2
+2595	3240	593357920	student_toolkit.exe	721f7ba100f4f81f
